@@ -13,17 +13,22 @@ your hand. **[awake-in-hell-showcase →](https://github.com/mikeabakumoff/awake
 ## What I work with
 
 **Backend** Python · FastAPI · SQLite · REST APIs
-**Bots & AI** python-telegram-bot · OpenAI and Anthropic APIs
+**Bots & AI** python-telegram-bot · OpenAI and Anthropic APIs · prompt assembly, cost control
 **Ops** Linux — systemd, nginx, cron
 **Frontend** vanilla JS where a framework would be overkill
 **Also** C++ / Unreal Engine 5
 
 ## Selected work
 
-**[azimut-crm-demo](https://github.com/mikeabakumoff/azimut-crm-demo)** —
+**[awelabs-crm-demo](https://github.com/mikeabakumoff/awelabs-crm-demo)** —
 sanitized front-end demo of a CRM built for a real estate agency: lead intake,
 client and property registers, a deal pipeline, contracts, an admin area.
-[Live demo](https://mikeabakumoff.github.io/azimut-crm-demo/)
+[Live demo](https://mikeabakumoff.github.io/awelabs-crm-demo/)
+
+**[awelabs-realty-bot](https://github.com/mikeabakumoff/awelabs-realty-bot)** —
+Telegram sales assistant: criteria extraction from the dialogue, listing
+filtering done in code before the prompt is built, per-user rate limits and
+spend control, and a nightly pass that rebuilds its own knowledge base.
 
 **[awake-in-hell-showcase](https://github.com/mikeabakumoff/awake-in-hell-showcase)** —
 engineering notes from a solo survival horror project in Unreal Engine 5.7.
