@@ -30,6 +30,13 @@ Telegram sales assistant: criteria extraction from the dialogue, listing
 filtering done in code before the prompt is built, per-user rate limits and
 spend control, and a nightly pass that rebuilds its own knowledge base.
 
+**[awelabs-footcast](https://github.com/mikeabakumoff/awelabs-footcast)** —
+football forecasting pipeline: collectors across five feeds, a scikit-learn
+ensemble validated with time-series splits, and a publication gate that declines
+to forecast when confidence is low. Includes an honest account of where the
+numbers came from. Front end in
+[football-app](https://github.com/mikeabakumoff/football-app).
+
 **[sdxl-character-lora-guide](https://github.com/mikeabakumoff/sdxl-character-lora-guide)** —
 practical guide to character LoRA training (Kohya, SDXL, dataset curation).
 
