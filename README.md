@@ -30,6 +30,9 @@ Telegram sales assistant: criteria extraction from the dialogue, listing
 filtering done in code before the prompt is built, per-user rate limits and
 spend control, and a nightly pass that rebuilds its own knowledge base.
 
+**[sdxl-character-lora-guide](https://github.com/mikeabakumoff/sdxl-character-lora-guide)** —
+practical guide to character LoRA training (Kohya, SDXL, dataset curation).
+
 **[awake-in-hell-showcase](https://github.com/mikeabakumoff/awake-in-hell-showcase)** —
 engineering notes from a solo survival horror project in Unreal Engine 5.7.
 Pursuer AI, a level generated from a text layout, and an honest account of the
