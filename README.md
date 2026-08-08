@@ -32,4 +32,4 @@ navigation bugs that cost the most time.
 
 ## Contact
 
-[Telegram](https://t.me/automation_kills_routine) · [Site](https://mikeabakumoff.github.io/)
+[Telegram](https://t.me/awe_labs) · [Site](https://mikeabakumoff.github.io/)
